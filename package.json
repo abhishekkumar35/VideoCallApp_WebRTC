@@ -1,0 +1,27 @@
+{
+  "name": "webrtcapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkumar35/VideoCallApp_WebRTC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekkumar35/VideoCallApp_WebRTC/issues"
+  },
+  "homepage": "https://github.com/abhishekkumar35/VideoCallApp_WebRTC#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
